@@ -1,0 +1,21 @@
+
+
+
+img.featurette-image{
+    max-width: 20% 
+}
+
+.headline {
+    background: url('../images/letter.jpg') no-repeat center center scroll;
+    background-size: 130%
+}
+
+#mc_embed_signup img{
+    max-width: 10%   
+    
+}
+
+#mc_embed_signup label{
+    font-weight: normal
+}
+
